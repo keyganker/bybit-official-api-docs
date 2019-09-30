@@ -19,6 +19,9 @@
   * 未完全成交的活动委托单最多可同时有200个
   * 条件单同一方向最多可同时有5个
 
+* 如何提高频率限制
+  * 请参考[API提频规则文档](https://raw.githubusercontent.com/keyganker/bybit-official-api-docs/master/zh/API_Limit_v1.1.pdf)
+
 ### 认证
 
 在调用 API 时，需要提供 API Key 作为每个请求的身份识别，并且通过secret对请求数据加签
