@@ -20,7 +20,7 @@
   * 条件单同一方向最多可同时有5个
 
 * 如何提高频率限制
-  * 请参考[API提频规则文档](https://raw.githubusercontent.com/keyganker/bybit-official-api-docs/master/zh/API_Limit_v1.1.pdf)
+  * 请参考[API提频规则文档](https://github.com/keyganker/bybit-official-api-docs/raw/master/zh_cn/API_Limit_v1.1.pdf)，如果您已经满足文档中的条件，请发申请邮件到 api@bybit.com, 我们会在3-5个工作日内给您答复
 
 ### 认证
 
